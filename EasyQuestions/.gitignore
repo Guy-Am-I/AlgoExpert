@@ -1,0 +1,8 @@
+#ignore all kind of files
+*.*
+!.gitignore
+#except source code files
+!*.md
+!*.swift
+!*.cpp
+!*.py
